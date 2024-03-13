@@ -14,9 +14,9 @@
 | 10     | 17:15 - 18:00 |                                    |             | GI (IS 2-1) |               | IyS (TM 3-3) |
 | 11     | 18:15 - 19:00 |                                    |             | GI (IS 2-1) |               | IyS (TM 3-3) |
 
-> - IS: [[Ingeniería de Software II]]
-> - AS: [[Arquitectura de Software]]
-> - IyS: [[Informática y Sociedad]]
-> - GI: [[Gestión Informática]]
-> - IA: [[Inteligencia Artificial]]
-> - SI: [[Seguridad Informática]]
+> - IS: [[Ingeniería_de_Software_II]]
+> - AS: [[Arquitectura_de_Software]]
+> - IyS: [[Informática_y_Sociedad]]
+> - GI: [[Gestión_Informática]]
+> - IA: [[Inteligencia_Artificial]]
+> - SI: [[Seguridad_Informática]]
