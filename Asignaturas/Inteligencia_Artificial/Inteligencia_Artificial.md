@@ -1,8 +1,11 @@
 # Apuntes
+## Semana 1
 [[Clase1-Motivación2024.pdf]]
+## Semana 2
 [[Clase2IA_2024.pdf]]
-
-
+## Semana 3
+[[IMG_0382.png]]
+[[IMG_0383.png]]
 # Ayudantía
 
 ## Ayudantía 1
