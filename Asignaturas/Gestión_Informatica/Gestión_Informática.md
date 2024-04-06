@@ -29,4 +29,14 @@ Relación Negocio-Informatica. IEEE, ACM.
 
 ## Semana 3
 [[Cap1.3-2024Procesos_de_Negocios.pdf]]
+[[Ejercicio_clase]]
+
+## Ejercicio Limpiecito
+
+Cliente se comunica x wzp
+¿Es cliente nuevo o antiguo? Solicitar datos y verificar lugar
+Enviar cotizacion
+Enviar visto bueno
+Cli pasa
+Se inicia serv.
 

@@ -4,8 +4,17 @@
 ## Semana 2
 [[Clase2IA_2024.pdf]]
 ## Semana 3
+[[Clase3IA_2024.pdf]]
 [[IMG_0382.png]]
 [[IMG_0383.png]]
+[[IMG_0384.png]]
+[[IMG_0385.png]]
+## Semana 4
+[[Clase4IA2024.pdf]]
+[[Clase_BusquedaInformada.pdf]]
+
+## Semana 5
+
 # Ayudantía
 
 ## Ayudantía 1
@@ -56,4 +65,9 @@ No es problema de camino mas corto. Va decidiendo a medida que se va moviendo. (
 | Estático     | no      | no                     |
 | Discreto     | ?       | continuo               |
 | Multiagente  | no      | ?                      |
-![[img2.png]]
+[[img2.png]]
+
+
+
+## Ayudantía 2
+[[Ayudantia_2.pdf]]
