@@ -1,42 +1,28 @@
-# Proyecto
+# Ayudantia
+## Proyecto
+[[Proyecto - Enunciado.pdf]]
 [[Gestion Informática 2024 -1 - Clase 1 - empresas - levant inf.pdf]]
-
+## Practicas
+[[Gestion Informática 2024 -1 - Clase 1 - empresas - levant inf.pdf]]
+[[Ayudantía - Gestion Informática 2024 -1 - Clase 2 - Procesos.pdf]]
+## Pautas
+[[Pauta captura necesidades.pdf]]
+[[Pauta captura información.pdf]]
 # Semanas
 ## Semana 1
 ### Material
 [[GI 00-2024.pdf]]
 [[503358 Gestión Informática 2024-1.pdf]]
-
-### Apuntes
-Innovación tecnologica:
-Transformación digital
-Validar: proyecto adecuado, con los usuarios, es el proyecto adecuado.
-Verificar: cumple con los requerimientos.
-
-Se necesita métricas para evaluar el desempeño.
-
-Relación Negocio-Informatica. IEEE, ACM.
-- IT: Uso de la tecnologia.
-- CE: Electronica.
-- IS: Contextos organizacionales de la tecnologia.
-- SE: Informáticos. Desarrollo software con buenas practicas.
-- CS: Ciencias de la computación. 
 ## Semana 2
 ### Material
 [[GI 01-1-2024.pdf]]
 [[GI 01-2-2024-01 Introducción_Innovación y Transformación digital.pdf]]
 [[GI 01-3-2024.pdf]]
-
 ## Semana 3
 [[Cap1.3-2024Procesos_de_Negocios.pdf]]
-[[Ejercicio_clase]]
+[[Limpiecito]]
+## Semana 4
+[[Cap2.2.pdf]]
 
-## Ejercicio Limpiecito
 
-Cliente se comunica x wzp
-¿Es cliente nuevo o antiguo? Solicitar datos y verificar lugar
-Enviar cotizacion
-Enviar visto bueno
-Cli pasa
-Se inicia serv.
 

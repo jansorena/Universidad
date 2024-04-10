@@ -5,18 +5,14 @@
 [[Clase2IA_2024.pdf]]
 ## Semana 3
 [[Clase3IA_2024.pdf]]
-[[IMG_0382.png]]
-[[IMG_0383.png]]
-[[IMG_0384.png]]
-[[IMG_0385.png]]
+[[Resolución de problemas mediante búsqueda.pdf]]
 ## Semana 4
 [[Clase4IA2024.pdf]]
 [[Clase_BusquedaInformada.pdf]]
-
 ## Semana 5
-
+[[Clase5IA_2024.pdf]]
+[[Clase6IA_2024.pdf]]
 # Ayudantía
-
 ## Ayudantía 1
 [[ayudantia1_2024.pdf]]
 ### Problema de la aspiradora robot
