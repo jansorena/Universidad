@@ -80,6 +80,7 @@ if __name__ == '__main__':
 
 
 ## Practica 3
+![[Drawing 2024-04-04 14.52.05.excalidraw]]
 ```bash
 docker pull mongo
 docker network create my-mongo-cluster
@@ -115,4 +116,11 @@ db2.alumnos.find()
 db3 = (new Mongo('mongo3:27017')).getDB('udec')
 db3.alumnos.find()
 
+```
+
+## Practica 4
+![[Drawing 2024-04-11 14.49.01.excalidraw]]
+```bash
+#Compilar en Visual Studio consumidor y productor y abrir desde cmd
+#Consumidor.exe udec
 ```

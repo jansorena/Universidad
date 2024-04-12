@@ -5,7 +5,7 @@
 [[Clase2IA_2024.pdf]]
 ## Semana 3
 [[Clase3IA_2024.pdf]]
-[[Resolución de problemas mediante búsqueda.pdf]]
+[[Resolución_de_problemas_mediante_búsqueda.pdf]]
 ## Semana 4
 [[Clase4IA2024.pdf]]
 [[Clase_BusquedaInformada.pdf]]
@@ -67,3 +67,7 @@ No es problema de camino mas corto. Va decidiendo a medida que se va moviendo. (
 
 ## Ayudantía 2
 [[Ayudantia_2.pdf]]
+
+```python
+def (parse)
+```

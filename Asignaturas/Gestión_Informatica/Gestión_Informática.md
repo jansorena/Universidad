@@ -1,9 +1,9 @@
-# Ayudantia
+# Ayudantía
 ## Proyecto
 [[Proyecto - Enunciado.pdf]]
 [[Gestion Informática 2024 -1 - Clase 1 - empresas - levant inf.pdf]]
+[[Empresa_Transporte.pdf]]
 ## Practicas
-[[Gestion Informática 2024 -1 - Clase 1 - empresas - levant inf.pdf]]
 [[Ayudantía - Gestion Informática 2024 -1 - Clase 2 - Procesos.pdf]]
 ## Pautas
 [[Pauta captura necesidades.pdf]]
@@ -20,7 +20,7 @@
 [[GI 01-3-2024.pdf]]
 ## Semana 3
 [[Cap1.3-2024Procesos_de_Negocios.pdf]]
-[[Limpiecito]]
+![[Limpiecito]]
 ## Semana 4
 [[Cap2.2.pdf]]
 

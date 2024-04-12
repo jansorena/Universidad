@@ -1,0 +1,27 @@
+- Clientes se les hace un diagnostico cuando entran: edad, experiencia, actividad física, sedentarismo y los objetivos que quieren alcanzar (por estrés, por medico, bajar de peso, desarrollar músculo, etc).
+- Pocos clientes, PT se acordaba de los usuarios y sus rutinas. Ahora se olvida de los usuarios y sus entrenamientos, por ejemplo, repite entrenamientos, viene lesionado por alguna sesión o ejercicio, etc.
+- A veces repite rutinas, se vuelve aburrida la experiencia. Ya no es tan grata o entretenida.
+- Entrenamiento funcional, utilizar el cuerpo en actividades rutinarias?.
+- Llego una maquina y esta el ejercicio, pero no esta contemplado. Los ejercicios tienen que ver con repeticiones. Relacionados con peso que va incrementando, con velocidades o con cantidad de repeticiones. Por ejemplo: persona corriendo por 10 min u otra persona haciendo series de ejercicio, etc. Entrenamiento tiene que ver con circuitos.
+- Recordar todo esto para una cantidad considerable de clientes es un tanto complicado. Personas vienen cuando quieren, PT no se acuerda que hizo la última vez. Atención a la técnica mas que al peso.
+- No hay forma de agendar de hora, voy y espero a que el entrenador me reciba.
+- Hay un notebook disponible, en caso de ser necesario.
+- No hay distinción entre hombres y mujeres (en relación a los ejercicios). Niños por ejemplo, ejercicios mas de coordinación que de fuerza.
+- Historial para ver progreso de los usuarios. Por el momento no hay pensado un servicio para los clientes. Es para los personal trainer, orientado a la administración.
+- Hay gente que les gusta un instructor mas que otro, por distintas razones. El entrenador tiene que saber bien quienes son sus historias.
+- ¿Que métricas son importantes para el historial? ¿Como se puede describir el ejercicio? ¿Que recomendaciones hacer y si hizo los ejercicios o no? En resumen la idea es tener un registro medianamente informativo de lo que hizo la persona.
+- Casi siempre el instructor siempre esta mirando.
+- Las lesiones igual son importantes para los PT.
+> PT: Personal Trainer. Entrenador.
+- Ideas de como se puede ayudar. Sacar provecho al computador? Se puede colocar mas maquinas, mas computadores y distribuirlas en el gimnasio, para que las consulten los instructores. También colocar dispositivos móviles.
+- Identificar a los clientes. QR? Tarjetas?
+- Pago mensual, existe un cuaderno donde se anotan los pagos.
+- Antes existía una especie de reserva, mas para tener el horario de los instructores.
+- Se divide generalmente de mañana-tarde. Abre a las 6.30 y cierra en la noche.
+- Si ocurre algún accidente o algo, es importante tener un registro del cliente y del instructor que estaba a cargo.
+- **Importante la información de seguimiento. Teniendo el objetivo y sabiendo lo que hizo es mas facil para los instructores.**
+- *Guardar la información de los distintos ejercicios. Nos llego una nueva maquina y podemos hacer este ejercicio de tantas repeticiones. Esto no se como guardarlo.*
+- Puede darse el caso que una maquina no se pueda utilizar. Ej: Se corto la maquina remadora. Hay gente que tenia esa maquina en sus rutinas, pero no se pudo ocupar.
+- También importante las enfermedades base de una persona. Ahora se fian de la palabra de los clientes. (Problemas cardiacos, lesión, etc). Si después no esta la persona, se olvida, así que es bueno tenerlo.
+- Cuando se llena, un entrenador puede ver varias personas (4 personas por ahora).
+- Una eventual solucion del gimnasio podria servir para el manejo terapeutico de la Teletón.
